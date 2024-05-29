@@ -36,6 +36,7 @@ exports.config = {
     eachElement: {
       enabled: true
     },
+    allure: {},
     pauseOnFail: {}
   },
   stepTimeout: 0,
